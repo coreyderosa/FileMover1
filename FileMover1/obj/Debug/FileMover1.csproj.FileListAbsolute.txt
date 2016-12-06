@@ -1,0 +1,6 @@
+D:\Documents\School\Tech Academy\C# and ASPnet Course\FileMover1\FileMover1\bin\Debug\FileMover1.exe.config
+D:\Documents\School\Tech Academy\C# and ASPnet Course\FileMover1\FileMover1\bin\Debug\FileMover1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\FileMover1\FileMover1\bin\Debug\FileMover1.pdb
+D:\Documents\School\Tech Academy\C# and ASPnet Course\FileMover1\FileMover1\obj\Debug\FileMover1.csprojResolveAssemblyReference.cache
+D:\Documents\School\Tech Academy\C# and ASPnet Course\FileMover1\FileMover1\obj\Debug\FileMover1.exe
+D:\Documents\School\Tech Academy\C# and ASPnet Course\FileMover1\FileMover1\obj\Debug\FileMover1.pdb
